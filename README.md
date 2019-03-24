@@ -16,5 +16,6 @@ You can download and run it directly through console
 
 Example of script launch on Linux, Python 3.5 and launch GUI:
 
-```./main.py
+```bash
+./main.py
 ```
